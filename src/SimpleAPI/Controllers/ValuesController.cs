@@ -18,11 +18,11 @@ namespace SimpleAPI.Controllers
         }
        [HttpGet("lis")]
         // GET: api/values/5
-        public string Get(int id)
+        public string Get(int id) 
         {
             return "sandeep";
         }
-
+        //test
         // // GET: api/values
         // [HttpGet("Getdata")]
         // public IEnumerable<string> Get()
