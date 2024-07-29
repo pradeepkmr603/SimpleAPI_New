@@ -22,7 +22,7 @@ namespace SimpleAPI.Controllers
         {
             return "sandeep";
         }
-        //test
+        
         // // GET: api/values
         // [HttpGet("Getdata")]
         // public IEnumerable<string> Get()
